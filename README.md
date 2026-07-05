@@ -19,17 +19,7 @@ LLM 모델을 비교·평가하여 최적의 업무용 프롬프트를 설계한
 
 </div>
 
-# 📑 Table of Contents
-
-- [📖 Project Overview](#-project-overview)
-- [🎯 Project Goal](#-project-goal)
-- [🚨 Problem Definition](#-problem-definition)
-- [💼 Task Selection](#-task-selection)
-- [🧩 Workflow](#-workflow)
-- [📌 Expected Outcome](#-expected-outcome)
-- [✅ Project Checklist](#-project-checklist)
-
----
+# 프로젝트를 chapter별로 나누어 README를 작성하였습니다.
 
 ---
 
