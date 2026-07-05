@@ -33,12 +33,12 @@ LLM 모델을 비교·평가하여 최적의 업무용 프롬프트를 설계한
 
 ---
 
-- [🤖 Chapter 1. 프로젝트 소개](#-Chapter-1-프로젝트-소개)
-- [🤖 Chapter 2. LLM 모델 비교·선정 보고서](#-Chapter-2-LLM-모델-비교·선정-보고서)
-- [⚙️ Chapter 3. 시스템 설계 (System Design)](#-Chapter-3-시스템-설계-(System-Design))
-- [🧠 Chapter 4. Prompt Engineering & Few-shot Learning](#-Chapter-4-Prompt-Engineering-&-Few-shot-Learning)
-- [🔍 Chapter 5. Hallucination(환각) 검증](#-Chapter-5-Hallucination(환각)-검증)
-- [💬 Chapter 6. 실행 로그 (10Turn Conversation)](#-Chapter-6-실행-로그-(10Turn-Conversation))
+- [🤖 Chapter 1. 프로젝트 소개](#-chapter-1-프로젝트-소개)
+- [🤖 Chapter 2. LLM 모델 비교·선정 보고서](#-chapter-2-llm-모델-비교선정-보고서)
+- [⚙️ Chapter 3. 시스템 설계 (System Design)](#%EF%B8%8F-chapter-3-시스템-설계-system-design)
+- [🧠 Chapter 4. Prompt Engineering & Few-shot Learning](#-chapter-4-prompt-engineering--few-shot-learning)
+- [🔍 Chapter 5. Hallucination(환각) 검증](#-chapter-5-hallucination환각-검증)
+- [💬 Chapter 6. 실행 로그 (10Turn Conversation)](#-chapter-6-실행-로그-10turn-conversation)
 - [🚀 Chapter 7. 운영 전략 및 프로젝트 개선 방안](#-Chapter-7-운영-전략-및-프로젝트-개선-방안)
 
 ---
